@@ -1,0 +1,36 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1.home-page {
+    font-weight: bold;
+    font-size: 60px;
+    
+}
+
+a {
+    font-size: 40px;
+    text-align: center;
+    background-color: lightblue;
+}
+
+.spaghetti {
+    color: tan;
+}
+
+.smoothie {
+    color: purple;
+}
+
+.oatmeal {
+    color: brown
+}
+
+img {
+    height: 200px;
+    width: 800px;
+}
+
+ul li {
+    background-color: rgb(0, 100, 20, 0.3);
+}
